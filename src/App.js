@@ -23,9 +23,7 @@ function App() {
 <Portafolio/>
 </Route>
 
-<Route path="/perros">
-  <Perros/>
-</Route>
+
 <Route component={Error404}/>
 
 </Switch>
