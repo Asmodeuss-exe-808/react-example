@@ -1,25 +1,38 @@
-import logo from './logo.svg';
 import './App.css';
-
+import Error404 from './pages/Error404';
+import Perros from './pages/Perros';
+import{
+  BrowserRouter as Router,
+  Switch,
+  Route
+} from "react-router-dom";
+import Home from './pages/Home';
+import Portafolio from './pages/Portafolio';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1>
-          Esta es mi aplicación
-        </h1>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+  <Router>
+
+<Switch>
+
+<Route path="/home">
+
+<Home />
+
+</Route>
+<Route path="/portafolio">
+<Portafolio/>
+</Route>
+
+<Route path="/perros">
+  <Perros/>
+</Route>
+<Route component={Error404}/>
+
+</Switch>
+
+  </Router>
+  
+    );
 }
 
 export default App;
