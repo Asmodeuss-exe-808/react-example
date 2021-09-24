@@ -1,5 +1,5 @@
 import './Header.css';
-import foto from './foto.jpg';
+import foto from './foto.jpeg';
 
 function Header(){
     return(
