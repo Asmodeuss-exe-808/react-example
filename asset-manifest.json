@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/react-example/static/css/main.a617e044.chunk.css",
-    "main.js": "/react-example/static/js/main.0bf7c2db.chunk.js",
-    "main.js.map": "/react-example/static/js/main.0bf7c2db.chunk.js.map",
-    "runtime-main.js": "/react-example/static/js/runtime-main.c846d9f3.js",
-    "runtime-main.js.map": "/react-example/static/js/runtime-main.c846d9f3.js.map",
-    "static/js/2.15f1b5a1.chunk.js": "/react-example/static/js/2.15f1b5a1.chunk.js",
-    "static/js/2.15f1b5a1.chunk.js.map": "/react-example/static/js/2.15f1b5a1.chunk.js.map",
-    "static/js/3.981c8aae.chunk.js": "/react-example/static/js/3.981c8aae.chunk.js",
-    "static/js/3.981c8aae.chunk.js.map": "/react-example/static/js/3.981c8aae.chunk.js.map",
+    "main.css": "/react-example/static/css/main.6e480aab.chunk.css",
+    "main.js": "/react-example/static/js/main.a6506932.chunk.js",
+    "main.js.map": "/react-example/static/js/main.a6506932.chunk.js.map",
+    "runtime-main.js": "/react-example/static/js/runtime-main.cbdec16f.js",
+    "runtime-main.js.map": "/react-example/static/js/runtime-main.cbdec16f.js.map",
+    "static/js/2.9bfc76a3.chunk.js": "/react-example/static/js/2.9bfc76a3.chunk.js",
+    "static/js/2.9bfc76a3.chunk.js.map": "/react-example/static/js/2.9bfc76a3.chunk.js.map",
+    "static/js/3.9e7fcad4.chunk.js": "/react-example/static/js/3.9e7fcad4.chunk.js",
+    "static/js/3.9e7fcad4.chunk.js.map": "/react-example/static/js/3.9e7fcad4.chunk.js.map",
     "index.html": "/react-example/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/react-example/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.15f1b5a1.chunk.js.LICENSE.txt": "/react-example/static/js/2.15f1b5a1.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-example/static/media/logo.6ce24c58.svg"
+    "static/css/main.6e480aab.chunk.css.map": "/react-example/static/css/main.6e480aab.chunk.css.map",
+    "static/js/2.9bfc76a3.chunk.js.LICENSE.txt": "/react-example/static/js/2.9bfc76a3.chunk.js.LICENSE.txt",
+    "static/media/Error.e5dff39b.png": "/react-example/static/media/Error.e5dff39b.png",
+    "static/media/foto.db210ccb.jpg": "/react-example/static/media/foto.db210ccb.jpg",
+    "static/media/Header.css": "/react-example/static/media/header.92e673ba.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c846d9f3.js",
-    "static/js/2.15f1b5a1.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.0bf7c2db.chunk.js"
+    "static/js/runtime-main.cbdec16f.js",
+    "static/js/2.9bfc76a3.chunk.js",
+    "static/css/main.6e480aab.chunk.css",
+    "static/js/main.a6506932.chunk.js"
   ]
 }
