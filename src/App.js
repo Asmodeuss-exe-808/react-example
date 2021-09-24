@@ -1,6 +1,5 @@
 import './App.css';
 import Error404 from './pages/Error404';
-import Perros from './pages/Perros';
 import{
   BrowserRouter as Router,
   Switch,
