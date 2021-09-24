@@ -5,7 +5,7 @@ import{
   Switch,
   Route
 } from "react-router-dom";
-import Home from './pages/Home';
+import Home from './pages/Home.js';
 import Portafolio from './pages/Portafolio';
 function App() {
   return (
