@@ -13,11 +13,13 @@ function App() {
 
 <Switch>
 
-<Route path="/home">
+<Route exact path="/">
 
-<Home />
+<home />
 
 </Route>
+
+
 <Route path="/portafolio">
 <Portafolio/>
 </Route>
