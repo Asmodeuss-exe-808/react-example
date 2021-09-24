@@ -5,16 +5,17 @@ import{
   Switch,
   Route
 } from "react-router-dom";
-import Home from './pages/Home.js';
+import Home from './pages/Home';
 import Portafolio from './pages/Portafolio';
 function App() {
   return (
   <Router>
 
 <Switch>
-<Route path="/">
-  <Home/>
 
+<Route path="">
+
+<Home />
 </Route>
 
 
